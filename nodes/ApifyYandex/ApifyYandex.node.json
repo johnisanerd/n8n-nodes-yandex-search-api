@@ -1,0 +1,32 @@
+{
+	"node": "n8n-nodes-yandex-search-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Analytics"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.apify.com/platform/integrations/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://apify.com/johnvc/Scrape-Yandex?fpr=9n7kx3"
+			}
+		]
+	},
+	"alias": [
+		"yandex",
+		"yandex search",
+		"search",
+		"serp",
+		"search results",
+		"russian search",
+		"organic results",
+		"web search",
+		"apify"
+	]
+}
